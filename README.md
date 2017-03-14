@@ -41,5 +41,4 @@ Below is the output of command line 2 player Pegz game.
 
 --
 
-![11]
-(https://cloud.githubusercontent.com/assets/14101763/22893954/3d5c48f4-f1e5-11e6-9ffa-ad0fc083c87d.png)
+![pegz_final_result](https://cloud.githubusercontent.com/assets/14101763/23909965/903ab01c-08ae-11e7-9990-e16c57588bbf.png)
